@@ -4,8 +4,8 @@
 
 ### 1. 右键单击，选择在管理员模式下运行
 
-![](./步骤一.png)
+![](https://7463-tcb-nkd87viq9wheg653bca0d-a8621b-1304207482.tcb.qcloud.la/win11/步骤一.png)
 
 ### 2. 输入yes，回车
 
-![](./步骤二.png)
+![](https://7463-tcb-nkd87viq9wheg653bca0d-a8621b-1304207482.tcb.qcloud.la/win11/步骤二.png)
